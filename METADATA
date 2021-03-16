@@ -1,0 +1,19 @@
+name: "walkdir"
+description: "Recursively walk a directory."
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://crates.io/crates/walkdir"
+  }
+  url {
+    type: ARCHIVE
+    value: "https://static.crates.io/crates/walkdir/walkdir-2.3.1.crate"
+  }
+  version: "2.3.1"
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2020
+    month: 12
+    day: 21
+  }
+}
